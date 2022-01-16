@@ -14,3 +14,6 @@ dependencies:
   - seaborn
   - statsmodels
   - nltk
+  - gensim
+  - jupyter
+  - jupyterlab
